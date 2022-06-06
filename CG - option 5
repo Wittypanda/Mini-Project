@@ -1,5 +1,4 @@
-// Blooming flower and bee animation using c/c++ 
-// src: http://csourcecodes.blogspot.com/2016/03/blooming-flower-and-bee-animation-c.html
+
 
 
 #include<stdio.h>
